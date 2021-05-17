@@ -1,0 +1,8 @@
+The evaluation of an information retrieval system' 
+is the process of assessing how well a system meets the information needs of its users.
+ In general, measurement considers a collection of documents to be searched and a search query.
+ Traditional evaluation metrics, designed for Boolean retrieval[clarification needed] or top-k retrieval,
+ include precision and recall. All measures assume a ground truth notion of relevancy:
+ every document is known to be either relevant or non-relevant to a particular query. In practice,
+ queries may be ill-posed and there may be different shades of relevancy.
+

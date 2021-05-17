@@ -1,0 +1,5 @@
+The User Task: The information first is supposed to be translated into a query by the user.
+ In the information retrieval system, there is a set of words that convey the semantics of the information that is required whereas, 
+in a data retrieval system, a query expression is used to convey the constraints which are satisfied by the objects
+Example: A user wants to search for something but ends up searching with another thing. This means that the user is browsing and not searching. 
+The above figure shows the interaction of the user through different tasks. information retrieval

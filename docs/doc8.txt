@@ -1,0 +1,5 @@
+there is ... a machine called the Univac ... whereby letters and figures are coded
+ as a pattern of magnetic spots on a long steel tape. By this means the text of a document, 
+preceded by its subject code symbol, ca be recorded ... the machine ...
+ automatically selects and types out those references which
+ have been coded in any desired way at a rate of 120 words a minute 
